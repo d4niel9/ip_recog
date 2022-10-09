@@ -10,6 +10,6 @@
 
 ## use :video_game:
 ```consol
-~$ python3 main.py
+~$ sudo python3 main.py
 ['xxx.xxx.xxx.xxx', '00:FF:00:FF:00:FF\n', '(Oracle VirtualBox virtual NIC)  \n']
 ['xxx.xxx.xxx.xxx', '00:FF:00:FF:00:FF\n', '(Huawei Technologies)    \n']
